@@ -1,6 +1,6 @@
 # Quantum Oracle Sketching — Theorem F.13 in Qiskit
 
-Qiskit implementation of **Theorem F.13** of *Quantum Oracle Sketching* (arXiv:2604.07639):
+Qiskit implementation of **Theorem F.13** of *Quantum Oracle Sketching* (arXiv:2604.07639, original code: https://github.com/haimengzhao/quantum-oracle-sketching):
 binary classification through ridge regression, where every oracle is built from classical
 samples (oracle sketching) instead of being given as a black box.
 
