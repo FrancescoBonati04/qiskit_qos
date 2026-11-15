@@ -1,0 +1,13 @@
+# Python >= 3.10
+# plus the repository "Exponential Quantum Advantage" (found by utilities.Connect)
+
+qiskit>=2.5,<3
+numpy
+scipy
+pandas
+pyqsp
+jax
+jaxlib
+tqdm
+matplotlib
+scikit-learn==1.8.0
